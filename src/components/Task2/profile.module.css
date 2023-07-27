@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+.container {
+  margin: 25vh auto;
+  border: 1px solid rgb(214, 213, 213);
+  width: 35vw;
+   border-radius: 10px;
+   font-family: "IBM Plex Sans", sans-serif;
+}
+
+.content{
+    
+      margin: 3rem;
+   
+}
+.heading{
+    font-size: 2.4rem
+}
+
+.para {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: rgb(113, 113, 113);
+}
+
+.avatar {
+  margin: 3rem;
+}
+.custom-hr{
+    color:rgb(214, 213, 213) ;
+    border: 0.5px solid rgb(214, 213, 213);
+}
+
+.btn{
+  border: none;
+  background-color: #fff;
+  font-size: 1.3rem;
+  color: #86b4f9;
+  padding:1.5rem 3rem;
+
+}
